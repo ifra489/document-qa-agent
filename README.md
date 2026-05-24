@@ -105,8 +105,7 @@ streamlit run app.py
 
 ### 📑 Answer with Citation
 ![Citation Example](screenshots/citation.png)
-### 📑 Answer with Citation
-![Citation Example](screenshots/input.png)
+
 ### 📑 Answer with Citation
 ![Citation Example](screenshots/outofscope.png)
 ### 📑 Answer with Citation
